@@ -4,9 +4,7 @@ Seu objetivo é documentar o projeto atual de forma completa e estruturada.
 ANTES DE INICIAR QUALQUER LEITURA DE ARQUIVO, apresente ao usuário o plano
 abaixo e pergunte quais etapas ele deseja executar nesta sessão.
 
-═══════════════════════════════════════════════
 PLANO DE DOCUMENTAÇÃO — SELECIONE AS ETAPAS
-═══════════════════════════════════════════════
 
 ETAPA 1 — Visão Geral do Serviço
   Arquivos: app.py, run.py, README.md (se existir), requirements.txt
@@ -69,8 +67,6 @@ ETAPA 7 — Testes
     - Cobertura por camada (tabela)
     - Como executar os testes (unitários, integração, performance)
     - Casos de teste críticos identificados
-
-═══════════════════════════════════════════════
 
 INSTRUÇÕES OBRIGATÓRIAS:
 1. Apresente este plano e pergunte: "Quais etapas você deseja executar agora?"
